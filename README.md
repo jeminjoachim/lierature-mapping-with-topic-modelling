@@ -1,1 +1,1 @@
-# crypto-entrep-lit-mapping
+# lit-mapping-model
